@@ -77,7 +77,7 @@ function usage() {
     echo "--------"
     echo "Usage: ./$PROJECT_NAME [option]"
     echo "  options:"
-    echo "    setup    : Generate certs and create .env file"
+    echo "    setup    : Generate certificates"
     echo "    start    : Start $PROJECT_NAME and database containers"
     echo "    update   : Update $PROJECT_NAME and database containers with new configuration"
     echo "    stop     : Stop $PROJECT_NAME and database containers"
